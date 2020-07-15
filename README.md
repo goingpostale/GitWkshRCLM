@@ -5,3 +5,5 @@ CHANGES ARE A GREAT THING!!!
 
 Participants from 7/15
 Kelly Mahaffy
+Caitlin Postal
+
